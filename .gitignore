@@ -1,0 +1,14 @@
+# 이 저장소는 명시한 밸런스 파일만 추적합니다.
+*
+!.gitignore
+!README.md
+!AUTOMATION_PROMPT.md
+!tower_balance.json
+!wave.json
+!economy.json
+!summons.json
+!monster_scaling.json
+!income_lane_routing.json
+!leader_targeting.json
+!progression.json
+!rating.json
