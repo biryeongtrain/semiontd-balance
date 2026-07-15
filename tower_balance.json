@@ -371,7 +371,7 @@
     "t2_dps_chicken_tower": {
       "mineralCost": 100,
       "maxHealth": 80.0,
-      "range": 7.0,
+      "range": 12.0,
       "damage": 18.0,
       "attackIntervalTicks": 15,
       "aggroPriority": 10
@@ -962,7 +962,7 @@
     "t1_ranged_slave->t2_ranged_slave": 80,
     "t2_ranged_slave->t3_ranged_slave": 160,
     "t1_chicken->t2_legion_chicken_tower": 50,
-    "t1_chicken->t2_dps_chicken_tower": 80,
+    "t1_chicken->t2_dps_chicken_tower": 50,
     "t1_slime_tower->t2_slime_tower": 55,
     "t1_penguin->t2_penguin_tower": 225,
     "t1_parrot_tower->t2_parrot_tower": 225,
@@ -1303,9 +1303,9 @@
       "cloneSpawnRadius": 1.5,
       "cloneAggroPriorityBonus": 5.0,
       "cloneCount": 0.0,
-      "splashRadius": 0.75,
+      "splashRadius": 1.0,
       "cloneHealthRatio": 0.5,
-      "splashDamageRatio": 0.75
+      "splashDamageRatio": 1.0
     },
     "t1_slime_tower": {
       "cloneDamageRatio": 0.7,
