@@ -1118,13 +1118,15 @@
       "extraTargets": 1.0,
       "stackDamageCap": 50.0,
       "stackDamage": 0.1,
-      "lifeStealRatio": 0.1
+      "lifeStealRatio": 0.1,
+      "extraTargetRangeBonus": 0.0
     },
     "t3_ranged_skeleton_tower": {
       "extraTargets": 2.0,
       "stackDamageCap": 80.0,
       "stackDamage": 0.3,
-      "lifeStealRatio": 0.15
+      "lifeStealRatio": 0.15,
+      "extraTargetRangeBonus": 2.0
     },
     "t2_melee_tower": {
       "healthPerStack": 0.2,
@@ -1132,7 +1134,8 @@
       "splashDamageRatio": 0.6,
       "damagePerStack": 0.02,
       "stackCap": 300.0,
-      "lifeStealRatio": 0.07
+      "lifeStealRatio": 0.07,
+      "deathStackRange": 5.0
     },
     "t3_melee_tower": {
       "healthPerStack": 0.4,
@@ -1140,7 +1143,8 @@
       "splashDamageRatio": 0.85,
       "damagePerStack": 0.1,
       "stackCap": 600.0,
-      "lifeStealRatio": 0.1
+      "lifeStealRatio": 0.1,
+      "deathStackRange": 5.0
     },
     "t1_undead_animal_tower": {
       "radius": 4.0,
