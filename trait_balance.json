@@ -1,7 +1,7 @@
 {
   "traits": {
     "mobilization_grant": {
-      "startingDiamond": 80.0
+      "startingDiamond": 100.0
     },
     "clean_lane_bonus": {
       "incomeRatio": 0.15
