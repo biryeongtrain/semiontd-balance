@@ -146,7 +146,7 @@
     },
     "t3_zombie_tower": {
       "mineralCost": 350,
-      "maxHealth": 250.0,
+      "maxHealth": 225.0,
       "range": 3.0,
       "damage": 10.0,
       "attackIntervalTicks": 15,
@@ -1112,7 +1112,7 @@
       "thornHealPerHit": 2.0,
       "damageBoostOnHit": 8.0,
       "damageBoostTicks": 100.0,
-      "lastStandTicks": 45.0
+      "lastStandTicks": 40.0
     },
     "t2_ranged_skeleton_tower": {
       "extraTargets": 1.0,
