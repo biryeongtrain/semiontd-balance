@@ -42,7 +42,7 @@
     },
     "transcendence": {
       "damageBonus": 0.3,
-      "activationDelaySeconds": 20.0
+      "activationDelaySeconds": 15.0
     }
   }
 }
