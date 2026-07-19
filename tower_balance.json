@@ -180,7 +180,7 @@
       "mineralCost": 200,
       "maxHealth": 120.0,
       "range": 6.0,
-      "damage": 30.0,
+      "damage": 35.0,
       "attackIntervalTicks": 12,
       "aggroPriority": 5
     },
@@ -942,11 +942,11 @@
     "t1_cat_tower->t2_lane_clear_cat_tower": 120,
     "t2_anti_tanker_cat_tower->t3_anti_tanker_cat_tower": 210,
     "t2_lane_clear_cat_tower->t3_lane_clear_cat_tower": 210,
-    "t1_zombie_tower->t2_zombie_tower": 105,
-    "t2_zombie_tower->t3_zombie_tower": 220,
+    "t1_zombie_tower->t2_zombie_tower": 100,
+    "t2_zombie_tower->t3_zombie_tower": 200,
     "t1_skeleton_tower->t2_ranged_skeleton_tower": 100,
     "t1_skeleton_tower->t2_melee_tower": 110,
-    "t2_ranged_skeleton_tower->t3_ranged_skeleton_tower": 180,
+    "t2_ranged_skeleton_tower->t3_ranged_skeleton_tower": 160,
     "t2_melee_tower->t3_melee_tower": 180,
     "t1_undead_animal_tower->t2_undead_animal_tower": 150,
     "t1_pig_tower->t2_pig_tower": 95,
@@ -1106,7 +1106,7 @@
       "thornCooldownTicks": 80.0
     },
     "t3_zombie_tower": {
-      "lifeStealRatio": 0.3,
+      "lifeStealRatio": 0.4,
       "thornRadius": 4.0,
       "thornCooldownTicks": 50.0,
       "thornHealPerHit": 2.0,
@@ -1119,13 +1119,13 @@
       "stackDamageCap": 50.0,
       "stackDamage": 0.1,
       "lifeStealRatio": 0.1,
-      "extraTargetRangeBonus": 0.0
+      "extraTargetRangeBonus": 2.0
     },
     "t3_ranged_skeleton_tower": {
       "extraTargets": 2.0,
       "stackDamageCap": 80.0,
       "stackDamage": 0.3,
-      "lifeStealRatio": 0.15,
+      "lifeStealRatio": 0.2,
       "extraTargetRangeBonus": 2.0
     },
     "t2_melee_tower": {
@@ -1142,8 +1142,8 @@
       "splashRadius": 1.75,
       "splashDamageRatio": 0.85,
       "damagePerStack": 0.1,
-      "stackCap": 580.0,
-      "lifeStealRatio": 0.1,
+      "stackCap": 550.0,
+      "lifeStealRatio": 0.125,
       "deathStackRange": 5.0
     },
     "t1_undead_animal_tower": {
