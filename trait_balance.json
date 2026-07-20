@@ -10,8 +10,8 @@
       "refundRateAfterWave": 1.0
     },
     "berserk_summons": {
-      "attackDamageBonus": 0.2,
-      "attackSpeedBonus": 0.1
+      "attackDamageBonus": 0.3,
+      "attackSpeedBonus": 0.2
     },
     "interception_doctrine": {
       "damageBonus": 0.25

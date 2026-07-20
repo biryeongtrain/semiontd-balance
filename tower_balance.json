@@ -233,8 +233,8 @@
       "aggroPriority": 60
     },
     "t1_wolf_tower": {
-      "mineralCost": 55,
-      "maxHealth": 40.0,
+      "mineralCost": 50,
+      "maxHealth": 50.0,
       "range": 6.0,
       "damage": 5.0,
       "attackIntervalTicks": 20,
@@ -242,7 +242,7 @@
     },
     "t2_wolf_dps_tower": {
       "mineralCost": 110,
-      "maxHealth": 50.0,
+      "maxHealth": 70.0,
       "range": 6.0,
       "damage": 10.0,
       "attackIntervalTicks": 20,
@@ -250,15 +250,15 @@
     },
     "t3_wolf_dps_tower": {
       "mineralCost": 110,
-      "maxHealth": 50.0,
+      "maxHealth": 90.0,
       "range": 6.0,
       "damage": 20.0,
       "attackIntervalTicks": 20,
       "aggroPriority": 0
     },
     "t1_rabbit_tower": {
-      "mineralCost": 60,
-      "maxHealth": 30.0,
+      "mineralCost": 50,
+      "maxHealth": 40.0,
       "range": 7.0,
       "damage": 5.0,
       "attackIntervalTicks": 15,
@@ -266,7 +266,7 @@
     },
     "t2_rabbit_tower": {
       "mineralCost": 180,
-      "maxHealth": 40.0,
+      "maxHealth": 55.0,
       "range": 7.0,
       "damage": 8.0,
       "attackIntervalTicks": 15,
@@ -274,7 +274,7 @@
     },
     "t3_rabbit_tower": {
       "mineralCost": 300,
-      "maxHealth": 50.0,
+      "maxHealth": 70.0,
       "range": 7.0,
       "damage": 10.0,
       "attackIntervalTicks": 13,
@@ -433,28 +433,28 @@
       "aggroPriority": 1557
     },
     "t1_fox_tower": {
-      "mineralCost": 75,
-      "maxHealth": 35.0,
+      "mineralCost": 60,
+      "maxHealth": 45.0,
       "range": 7.0,
       "damage": 12.0,
       "attackIntervalTicks": 20,
-      "aggroPriority": 10
+      "aggroPriority": 5
     },
     "t2_fox_tower": {
       "mineralCost": 170,
-      "maxHealth": 45.0,
+      "maxHealth": 60.0,
       "range": 7.0,
       "damage": 20.0,
       "attackIntervalTicks": 15,
-      "aggroPriority": 10
+      "aggroPriority": 5
     },
     "t3_fox_tower": {
       "mineralCost": 320,
-      "maxHealth": 60.0,
+      "maxHealth": 80.0,
       "range": 8.0,
       "damage": 30.0,
       "attackIntervalTicks": 10,
-      "aggroPriority": 10
+      "aggroPriority": 5
     },
     "t1_bee_tower": {
       "mineralCost": 80,
@@ -1179,40 +1179,40 @@
       "splashDamageRatio": 0.5
     },
     "t1_wolf_tower": {
-      "intervalReductionPerStack": 1.0,
-      "damagePerStack": 1.5,
-      "maxStacks": 5.0
+      "intervalReductionPerStack": 1.25,
+      "damagePerStack": 2.0,
+      "maxStacks": 4.0
     },
     "t2_wolf_dps_tower": {
-      "damagePerStack": 4.0,
+      "damagePerStack": 5.0,
       "splashRadius": 1.25,
-      "intervalReductionPerStack": 1.0,
-      "maxStacks": 5.0,
+      "intervalReductionPerStack": 1.25,
+      "maxStacks": 4.0,
       "maxStackExtraIntervalReduction": 3.0,
       "splashDamageRatio": 0.5
     },
     "t3_wolf_dps_tower": {
       "splashRadius": 2.0,
       "maxStackDamageBonus": 5.0,
-      "maxStacks": 5.0,
+      "maxStacks": 4.0,
       "maxStackExtraIntervalReduction": 5.0,
       "splashDamageRatio": 0.75,
-      "intervalReductionPerStack": 1.0,
-      "damagePerStack": 8.0
+      "intervalReductionPerStack": 1.25,
+      "damagePerStack": 10.0
     },
     "t1_rabbit_tower": {
-      "maxStacks": 5.0,
-      "damagePerStack": 2.0
+      "maxStacks": 4.0,
+      "damagePerStack": 2.5
     },
     "t2_rabbit_tower": {
-      "damagePerStack": 5.0,
-      "maxStacks": 5.0,
+      "damagePerStack": 6.25,
+      "maxStacks": 4.0,
       "maxStackExtraIntervalReduction": 5.0
     },
     "t3_rabbit_tower": {
       "maxStackExtraIntervalReduction": 5.0,
-      "damagePerStack": 10.0,
-      "maxStacks": 5.0,
+      "damagePerStack": 12.5,
+      "maxStacks": 4.0,
       "extraAttackDamageRatio": 2.0
     },
     "base_warlock_tower": {
