@@ -945,7 +945,7 @@
       "aggroPriority": 10
     },
     "t2_enderman_tower": {
-      "mineralCost": 125,
+      "mineralCost": 90,
       "maxHealth": 50.0,
       "range": 0.0,
       "damage": 15.0,
@@ -953,7 +953,7 @@
       "aggroPriority": 10
     },
     "t3_end_crystal_tower": {
-      "mineralCost": 200,
+      "mineralCost": 140,
       "maxHealth": 50.0,
       "range": 0.0,
       "damage": 20.0,
@@ -969,7 +969,7 @@
       "aggroPriority": 10
     },
     "t2_shulker_tower": {
-      "mineralCost": 125,
+      "mineralCost": 90,
       "maxHealth": 150.0,
       "range": 0.0,
       "damage": 5.0,
@@ -977,7 +977,7 @@
       "aggroPriority": 10
     },
     "t3_shulker_tower": {
-      "mineralCost": 200,
+      "mineralCost": 140,
       "maxHealth": 200.0,
       "range": 0.0,
       "damage": 5.0,
