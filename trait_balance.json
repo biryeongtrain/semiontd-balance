@@ -4,7 +4,7 @@
       "startingDiamond": 120.0
     },
     "clean_lane_bonus": {
-      "incomeRatio": 0.15
+      "incomeRatio": 0.18
     },
     "rapid_deployment": {
       "refundRateAfterWave": 1.0

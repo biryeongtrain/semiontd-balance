@@ -933,7 +933,7 @@
       "maxHealth": 200.0,
       "range": 5.0,
       "damage": 10.0,
-      "attackIntervalTicks": 20,
+      "attackIntervalTicks": 15,
       "aggroPriority": 100
     },
     "t1_endermite_tower": {
@@ -2066,7 +2066,7 @@
     },
     "ender_global": {
       "dragonEvolutionMaxHealth": 2000.0,
-      "absorptionDurationTicks": 400.0,
+      "absorptionDurationTicks": 200.0,
       "roundHealthRatio": 1.0,
       "roundDamageRatio": 1.0,
       "roundStatBonusCapRatio": 0.5,
@@ -2075,12 +2075,12 @@
       "permanentDamageBonusCap": 60.0,
       "dragonAttackRangeBonus": 2.0,
       "dragonDamageBonus": 0.25,
-      "endCrystalAttackIntervalEvery": 20.0,
+      "endCrystalAttackIntervalEvery": 10.0,
       "attackIntervalReductionPerStep": 1.0,
       "shulkerLifeStealEvery": 10.0,
       "lifeStealPerStep": 0.01,
       "lifeStealCap": 0.3,
-      "endCrystalSplashEvery": 10.0,
+      "endCrystalSplashEvery": 5.0,
       "splashRadiusPerStep": 0.25,
       "splashRadiusCap": 5.0,
       "splashDamageRatio": 1.0,
