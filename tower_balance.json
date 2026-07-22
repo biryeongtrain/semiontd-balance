@@ -2266,7 +2266,8 @@
       "damageReduction": 0.05,
       "transferWaterCost": 1.0,
       "transferRadius": 2.0,
-      "transferCap": 12.0
+      "transferCap": 24.0,
+      "transferCooldownTicks": 50.0
     },
     "ocean_guardian_t2": {
       "waterDamageCoefficient": 0.75,
@@ -2274,7 +2275,8 @@
       "damageReduction": 0.1,
       "transferWaterCost": 1.0,
       "transferRadius": 2.0,
-      "transferCap": 25.0
+      "transferCap": 50.0,
+      "transferCooldownTicks": 50.0
     },
     "ocean_elder_guardian_t3": {
       "waterDamageCoefficient": 1.0,
@@ -2282,7 +2284,8 @@
       "damageReduction": 0.15,
       "transferWaterCost": 2.0,
       "transferRadius": 2.0,
-      "transferCap": 45.0
+      "transferCap": 90.0,
+      "transferCooldownTicks": 50.0
     },
     "ocean_tropical_fish_t1": {
       "abilityWaterCost": 8.0,
