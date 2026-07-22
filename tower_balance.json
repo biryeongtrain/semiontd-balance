@@ -1488,7 +1488,7 @@
     "t1_resonance_focus_moobloom": {
       "linkRange": 1.0,
       "maxLinksPerTower": 6.0,
-      "maxResonanceLevel": 3.0,
+      "maxResonanceLevel": 1.0,
       "level1RequiredLinks": 1.0,
       "level2RequiredLinks": 3.0,
       "level3RequiredLinks": 5.0,
@@ -1503,7 +1503,7 @@
     "t2_resonance_focus_moobloom": {
       "linkRange": 1.0,
       "maxLinksPerTower": 6.0,
-      "maxResonanceLevel": 3.0,
+      "maxResonanceLevel": 2.0,
       "level1RequiredLinks": 1.0,
       "level2RequiredLinks": 3.0,
       "level3RequiredLinks": 5.0,
@@ -1533,7 +1533,7 @@
     "t1_resonance_wave_moobloom": {
       "linkRange": 1.0,
       "maxLinksPerTower": 6.0,
-      "maxResonanceLevel": 3.0,
+      "maxResonanceLevel": 1.0,
       "level1RequiredLinks": 1.0,
       "level2RequiredLinks": 3.0,
       "level3RequiredLinks": 5.0,
@@ -1549,7 +1549,7 @@
     "t2_resonance_wave_moobloom": {
       "linkRange": 1.0,
       "maxLinksPerTower": 6.0,
-      "maxResonanceLevel": 3.0,
+      "maxResonanceLevel": 2.0,
       "level1RequiredLinks": 1.0,
       "level2RequiredLinks": 3.0,
       "level3RequiredLinks": 5.0,
@@ -1581,7 +1581,7 @@
     "t1_resonance_frost_moobloom": {
       "linkRange": 1.0,
       "maxLinksPerTower": 6.0,
-      "maxResonanceLevel": 3.0,
+      "maxResonanceLevel": 1.0,
       "level1RequiredLinks": 1.0,
       "level2RequiredLinks": 3.0,
       "level3RequiredLinks": 5.0,
@@ -1609,7 +1609,7 @@
     "t2_resonance_frost_moobloom": {
       "linkRange": 1.0,
       "maxLinksPerTower": 6.0,
-      "maxResonanceLevel": 3.0,
+      "maxResonanceLevel": 2.0,
       "level1RequiredLinks": 1.0,
       "level2RequiredLinks": 3.0,
       "level3RequiredLinks": 5.0,
@@ -1665,7 +1665,7 @@
     "t1_resonance_amplify_moobloom": {
       "linkRange": 1.0,
       "maxLinksPerTower": 6.0,
-      "maxResonanceLevel": 3.0,
+      "maxResonanceLevel": 1.0,
       "level1RequiredLinks": 1.0,
       "level2RequiredLinks": 3.0,
       "level3RequiredLinks": 5.0,
@@ -1684,7 +1684,7 @@
     "t2_resonance_amplify_moobloom": {
       "linkRange": 1.0,
       "maxLinksPerTower": 6.0,
-      "maxResonanceLevel": 3.0,
+      "maxResonanceLevel": 2.0,
       "level1RequiredLinks": 1.0,
       "level2RequiredLinks": 3.0,
       "level3RequiredLinks": 5.0,
