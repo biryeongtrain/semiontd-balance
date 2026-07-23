@@ -2346,21 +2346,21 @@
       "attackWaterCost": 1.0,
       "splashWaterCost": 2.0,
       "splashRadius": 0.75,
-      "splashDamageRatio": 0.4
+      "splashDamageRatio": 0.45
     },
     "ocean_salmon_t2": {
       "waterDamageCoefficient": 0.6,
       "attackWaterCost": 2.0,
       "splashWaterCost": 3.0,
       "splashRadius": 1.25,
-      "splashDamageRatio": 0.45
+      "splashDamageRatio": 0.6
     },
     "ocean_salmon_t3": {
       "waterDamageCoefficient": 0.85,
       "attackWaterCost": 3.0,
       "splashWaterCost": 4.0,
       "splashRadius": 1.5,
-      "splashDamageRatio": 0.5
+      "splashDamageRatio": 0.75
     },
     "ocean_cod_t1": {
       "waterDamageCoefficient": 0.75,
