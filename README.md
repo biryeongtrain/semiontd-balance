@@ -18,6 +18,7 @@
 | `rating.json` | 레이팅 계산 규칙 |
 | `traits.json` | 특성 사용 여부와 선택 제한 시간 |
 | `trait_balance.json` | 특성별 효과 수치 |
+| `cosmetics.json` | 치장품 목록, 가격, 착용 슬롯과 아이템 외형 |
 
 ## 변경 이력
 
