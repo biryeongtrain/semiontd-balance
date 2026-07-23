@@ -985,7 +985,7 @@
       "aggroPriority": 10
     },
     "ocean_water_t1": {
-      "mineralCost": 25,
+      "mineralCost": 20,
       "maxHealth": 5.0,
       "range": 0.0,
       "damage": 0.0,
@@ -2273,19 +2273,19 @@
       "dehydrationMaxHealthDamagePerSecond": 0.2
     },
     "ocean_water_t1": {
-      "supplyRadius": 2.5,
+      "supplyRadius": 3.5,
       "waveStartWater": 7.0,
       "waterPerSupply": 1.25,
       "supplyIntervalTicks": 20.0
     },
     "ocean_water_t2": {
-      "supplyRadius": 2.5,
+      "supplyRadius": 3.5,
       "waveStartWater": 13.0,
       "waterPerSupply": 1.8,
       "supplyIntervalTicks": 20.0
     },
     "ocean_water_t3": {
-      "supplyRadius": 2.5,
+      "supplyRadius": 3.5,
       "waveStartWater": 18.0,
       "waterPerSupply": 2.5,
       "supplyIntervalTicks": 20.0
@@ -2313,7 +2313,7 @@
       "attackWaterCost": 5.0,
       "damageReduction": 0.2,
       "transferWaterCost": 6.0,
-      "transferRadius": 2.0,
+      "transferRadius": 4.0,
       "transferCap": 90.0,
       "transferCooldownTicks": 100.0
     },
@@ -2424,7 +2424,7 @@
       "healRadius": 2.0
     },
     "ocean_glow_squid_t2": {
-      "healAmount": 40.0,
+      "healAmount": 35.0,
       "healIntervalTicks": 90.0,
       "abilityWaterCost": 20.0,
       "healRadius": 2.5
@@ -2432,7 +2432,7 @@
     "ocean_dolphin_t3": {
       "healAmount": 80.0,
       "healIntervalTicks": 80.0,
-      "abilityWaterCost": 40.0,
+      "abilityWaterCost": 30.0,
       "healRadius": 3.5
     }
   },
