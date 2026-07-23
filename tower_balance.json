@@ -2265,6 +2265,9 @@
       "initialWater": 50.0,
       "waterScale": 100.0,
       "incomeCoefficientMultiplier": 2.0,
+      "empoweredAbilityWaterThreshold": 100.0,
+      "empoweredAbilityWaterCostMultiplier": 2.0,
+      "empoweredAbilityEffectMultiplier": 1.5,
       "dehydratedDamageMultiplier": 0.3,
       "dehydratedAttackSpeedReduction": 0.6,
       "dehydrationMaxHealthDamagePerSecond": 0.02
