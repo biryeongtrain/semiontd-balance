@@ -1060,7 +1060,7 @@
       "mineralCost": 45,
       "maxHealth": 55.0,
       "range": 6.5,
-      "damage": 6.0,
+      "damage": 8.0,
       "attackIntervalTicks": 16,
       "aggroPriority": 0
     },
@@ -1068,7 +1068,7 @@
       "mineralCost": 100,
       "maxHealth": 80.0,
       "range": 7.5,
-      "damage": 13.0,
+      "damage": 16.0,
       "attackIntervalTicks": 15,
       "aggroPriority": 0
     },
@@ -1084,7 +1084,7 @@
       "mineralCost": 45,
       "maxHealth": 55.0,
       "range": 8.0,
-      "damage": 6.0,
+      "damage": 10.0,
       "attackIntervalTicks": 20,
       "aggroPriority": 0
     },
@@ -1092,7 +1092,7 @@
       "mineralCost": 100,
       "maxHealth": 80.0,
       "range": 11.0,
-      "damage": 16.0,
+      "damage": 24.0,
       "attackIntervalTicks": 15,
       "aggroPriority": 0
     },
@@ -2342,21 +2342,21 @@
       "supportIntervalTicks": 80.0
     },
     "ocean_salmon_t1": {
-      "waterDamageCoefficient": 0.4,
+      "waterDamageCoefficient": 0.6,
       "attackWaterCost": 1.0,
       "splashWaterCost": 2.0,
       "splashRadius": 0.75,
       "splashDamageRatio": 0.45
     },
     "ocean_salmon_t2": {
-      "waterDamageCoefficient": 0.6,
+      "waterDamageCoefficient": 0.8,
       "attackWaterCost": 2.0,
       "splashWaterCost": 3.0,
       "splashRadius": 1.25,
       "splashDamageRatio": 0.6
     },
     "ocean_salmon_t3": {
-      "waterDamageCoefficient": 0.85,
+      "waterDamageCoefficient": 1.2,
       "attackWaterCost": 3.0,
       "splashWaterCost": 4.0,
       "splashRadius": 1.5,
