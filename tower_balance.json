@@ -2334,7 +2334,7 @@
       "supportIntervalTicks": 90.0
     },
     "ocean_tropical_fish_t3": {
-      "abilityWaterCost": 40.0,
+      "abilityWaterCost": 25.0,
       "supportRadius": 2.0,
       "damageBonus": 0.3,
       "attackSpeedBonus": 0.22,
@@ -2346,21 +2346,21 @@
       "attackWaterCost": 1.0,
       "splashWaterCost": 2.0,
       "splashRadius": 0.75,
-      "splashDamageRatio": 0.4
+      "splashDamageRatio": 0.45
     },
     "ocean_salmon_t2": {
       "waterDamageCoefficient": 0.6,
       "attackWaterCost": 2.0,
       "splashWaterCost": 3.0,
       "splashRadius": 1.25,
-      "splashDamageRatio": 0.45
+      "splashDamageRatio": 0.6
     },
     "ocean_salmon_t3": {
       "waterDamageCoefficient": 0.85,
       "attackWaterCost": 3.0,
       "splashWaterCost": 4.0,
       "splashRadius": 1.5,
-      "splashDamageRatio": 0.5
+      "splashDamageRatio": 0.75
     },
     "ocean_cod_t1": {
       "waterDamageCoefficient": 0.75,
@@ -2419,19 +2419,19 @@
     },
     "ocean_squid_t1": {
       "healAmount": 15.0,
-      "healIntervalTicks": 100.0,
+      "healIntervalTicks": 90.0,
       "abilityWaterCost": 15.0,
       "healRadius": 2.0
     },
     "ocean_glow_squid_t2": {
       "healAmount": 35.0,
-      "healIntervalTicks": 90.0,
+      "healIntervalTicks": 70.0,
       "abilityWaterCost": 20.0,
       "healRadius": 2.5
     },
     "ocean_dolphin_t3": {
       "healAmount": 80.0,
-      "healIntervalTicks": 80.0,
+      "healIntervalTicks": 60.0,
       "abilityWaterCost": 30.0,
       "healRadius": 3.5
     }
