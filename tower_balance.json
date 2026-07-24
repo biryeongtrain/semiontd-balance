@@ -2274,7 +2274,7 @@
     "ocean_water_t1": {
       "supplyRadius": 3.5,
       "waveStartWater": 7.0,
-      "waterPerSupply": 13.0,
+      "waterPerSupply": 1.25,
       "supplyIntervalTicks": 20.0
     },
     "ocean_water_t2": {
