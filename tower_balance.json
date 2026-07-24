@@ -2263,9 +2263,9 @@
     "ocean_global": {
       "initialWater": 100.0,
       "waterScale": 250.0,
-      "incomeCoefficientMultiplier": 2.0,
+      "incomeCoefficientMultiplier": 3.0,
       "empoweredAbilityWaterThreshold": 100.0,
-      "empoweredAbilityWaterCostMultiplier": 3.0,
+      "empoweredAbilityWaterCostMultiplier": 2.0,
       "empoweredAbilityEffectMultiplier": 1.5,
       "dehydratedDamageMultiplier": 0.3,
       "dehydratedAttackSpeedReduction": 0.6,
