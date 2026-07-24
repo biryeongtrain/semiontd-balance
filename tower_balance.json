@@ -2355,11 +2355,11 @@
       "splashDamageRatio": 0.6
     },
     "ocean_salmon_t3": {
-      "waterDamageCoefficient": 1.2,
+      "waterDamageCoefficient": 1.25,
       "attackWaterCost": 3.0,
-      "splashWaterCost": 4.0,
+      "splashWaterCost": 5.0,
       "splashRadius": 1.5,
-      "splashDamageRatio": 0.75
+      "splashDamageRatio": 1.0
     },
     "ocean_cod_t1": {
       "waterDamageCoefficient": 0.75,
@@ -2372,7 +2372,7 @@
       "incomeWaterCost": 4.0
     },
     "ocean_cod_t3": {
-      "waterDamageCoefficient": 1.25,
+      "waterDamageCoefficient": 1.4,
       "attackWaterCost": 4.0,
       "incomeWaterCost": 5.0
     },
@@ -2553,7 +2553,7 @@
         "reputationAttackSpeedPerPoint": 0.0025,
         "reputationHealthPerPoint": 0.01,
         "reputationDamageReductionPerPoint": 0.0025,
-        "allayHealAmountPerExperience": 0.007,
+        "allayHealAmountPerExperience": 0.0035,
         "allayIntervalReductionPerExperience": 0.004,
         "reputationDamagePerPointInterval": 1.0,
         "reputationAttackSpeedPerPointInterval": 1.0,
