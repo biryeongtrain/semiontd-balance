@@ -2292,7 +2292,7 @@
     "ocean_pufferfish_t1": {
       "waterDamageCoefficient": 0.5,
       "attackWaterCost": 2.0,
-      "damageReduction": 0.10,
+      "damageReduction": 0.1,
       "transferWaterCost": 4.0,
       "transferRadius": 4.0,
       "transferCap": 24.0,
@@ -2301,7 +2301,7 @@
     "ocean_guardian_t2": {
       "waterDamageCoefficient": 0.75,
       "attackWaterCost": 3.0,
-      "damageReduction": 0.3,
+      "damageReduction": 0.2,
       "transferWaterCost": 4.0,
       "transferRadius": 4.0,
       "transferCap": 50.0,
@@ -2310,7 +2310,7 @@
     "ocean_elder_guardian_t3": {
       "waterDamageCoefficient": 1.0,
       "attackWaterCost": 5.0,
-      "damageReduction": 0.4,
+      "damageReduction": 0.35,
       "transferWaterCost": 6.0,
       "transferRadius": 4.0,
       "transferCap": 90.0,
