@@ -1019,7 +1019,7 @@
     "ocean_guardian_t2": {
       "mineralCost": 130,
       "maxHealth": 250.0,
-      "range": 2.6,
+      "range": 2.4,
       "damage": 9.0,
       "attackIntervalTicks": 16,
       "aggroPriority": 70
@@ -1027,7 +1027,7 @@
     "ocean_elder_guardian_t3": {
       "mineralCost": 210,
       "maxHealth": 530.0,
-      "range": 3.0,
+      "range": 2.4,
       "damage": 16.0,
       "attackIntervalTicks": 20,
       "aggroPriority": 110
@@ -1123,7 +1123,7 @@
     "ocean_dolphin_t3": {
       "mineralCost": 210,
       "maxHealth": 140.0,
-      "range": 2.4,
+      "range": 3.0,
       "damage": 0.0,
       "attackIntervalTicks": 80,
       "aggroPriority": -5
@@ -2274,7 +2274,7 @@
     "ocean_water_t1": {
       "supplyRadius": 3.5,
       "waveStartWater": 7.0,
-      "waterPerSupply": 1.25,
+      "waterPerSupply": 13.0,
       "supplyIntervalTicks": 20.0
     },
     "ocean_water_t2": {
