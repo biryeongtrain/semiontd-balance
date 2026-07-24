@@ -2553,7 +2553,7 @@
         "reputationAttackSpeedPerPoint": 0.0025,
         "reputationHealthPerPoint": 0.01,
         "reputationDamageReductionPerPoint": 0.0025,
-        "allayHealAmountPerExperience": 0.0035,
+        "allayHealAmountPerExperience": 0.005,
         "allayIntervalReductionPerExperience": 0.004,
         "reputationDamagePerPointInterval": 1.0,
         "reputationAttackSpeedPerPointInterval": 1.0,
