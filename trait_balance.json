@@ -24,8 +24,8 @@
       "damageBonus": 0.25
     },
     "fortitude": {
-      "maxHealthBonus": 0.3,
-      "warlockCoreMaxHealthBonus": 0.15
+      "maxHealthBonus": 0.2,
+      "CoreMaxHealthBonus": 0.1
     },
     "double_edged_sword": {
       "outgoingDamageBonus": 0.25,
